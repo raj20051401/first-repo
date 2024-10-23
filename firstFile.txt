@@ -1,0 +1,2 @@
+this is my first file that iam going to store in git reposoitory. 
+iam very excited to learn git.
